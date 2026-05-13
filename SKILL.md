@@ -1,6 +1,6 @@
 ---
 name: college-prep-tracker
-version: 1.0.0
+version: "1.0.1"
 description: Track college applications, essays, scholarships, financial aid, recommendation letters, test scores, and deadlines for one or more students. Built-in timeline for junior and senior year milestones. Use when anyone mentions college applications, SAT/ACT, FAFSA, scholarships, college visits, recommendation letters, or college decisions.
 metadata:
   openclaw:
